@@ -1,2 +1,1 @@
-# robotics
-Repository for the robotics projects
+# RRT Algorithm Implementation in CPP
